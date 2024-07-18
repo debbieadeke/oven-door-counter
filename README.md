@@ -1,1 +1,1 @@
-# oven-door-counter
+As a girl in tech who enjoys baking as a hobby, I created this tool to merge my passion for baking with my technical skills🥰. Baking often requires precision, and opening the oven door too frequently can affect the outcome of your baked goods. The Oven Door Counter helps bakers monitor and control this variable, leading to better and more consistent results.
